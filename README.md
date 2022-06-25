@@ -1,5 +1,5 @@
 # App_Curriculo
-# Criando um APP simples de currículo para celulares
+# Criando um APP simples de currículo para celulares com REACT NATIVE.
 
 App criado através do curso DECOLA TECH 3ª EDIÇÃO DA AVANADE fornecido pela DIO
 
